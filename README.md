@@ -20,4 +20,7 @@ Get more info and updates on this topic in this Strava club: https://www.strava.
 * Veloviewer chrome extension with Strava route planner. With that enabled you can see the tiles in the Strava route planner https://chrome.google.com/webstore/detail/veloviewer-strava-plugin/kdgpnlmocdpeckamipkkdblnfcpkgbno?hl=en
 * https://nakarte.me is the google streetview of gravel roads
 * Some random dude collecting rideable gravel (mtb) routes: https://navitrails.com/mtbtracks/
-* During the ride: 'EveryTile' app from Garmin connect app: https://apps.garmin.com/en-US/apps/e53331b6-55db-475a-99e9-3f567327e7ce
+
+## During the ride:
+* 'EveryTile' app for Garmin devices, shows if you are already in a tile: https://apps.garmin.com/en-US/apps/e53331b6-55db-475a-99e9-3f567327e7ce
+* 'Geoládák' app for [iOS](https://apps.apple.com/hu/app/geoládák/id1214718958?l=hu) and [Android](https://play.google.com/store/apps/details?id=com.tamaspetro.geocachinghu&hl=en&gl=US) devices. Supports various map layers (including mapy.cz), offline maps, routing, kml/gpx import, etc. Great to use together with missing tiles KML. 
