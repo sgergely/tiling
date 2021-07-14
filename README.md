@@ -2,6 +2,8 @@
 Collecting tiles on Veloviewers application based on your Strava activities.
 Lot of fun if you got bored on your daily commute, training rides or have a healthy race with your cycling buddies to discover new stuff.
 
+[There's an intro in Hungarian available.](csempezes.pdf)
+
 Tiles can be found here:
 `https://veloviewer.com/athlete/<strava user id>/activities`
 
