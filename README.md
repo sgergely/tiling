@@ -8,6 +8,8 @@ Tiles can be found here:
 `https://veloviewer.com/athlete/<strava user id>/activities`
 
 ## Race results:
+Due to GDPR concerns the following sites are no longer showing the results. However on Veloviewer a high level overview can be checked under Leaderboards.
+
 It is said that it is going to be updated monthly but that not always happens: https://rideeverytile.com/tiles/leaderboard_national#HungaryLeaderboardHeader
 
 Refreshed more often than the one above: https://rakietowa.org/maxsquare/
