@@ -16,6 +16,14 @@ Refreshed more often than the one above: https://rakietowa.org/maxsquare/
 
 Get more info and updates on this topic in this Strava club: https://www.strava.com/clubs/279168
 
+### Friends we are playing with
+* Bálint: https://veloviewer.com/athlete/14670096/activities
+* Eszpee: https://veloviewer.com/athlete/957793/activities
+* Gergely: https://veloviewer.com/athlete/4203915/activities
+* Serif: https://veloviewer.com/athlete/6590409/activities
+* Szabolcs: https://veloviewer.com/athlete/3123981/activities
+* Nándi: https://veloviewer.com/athlete/4630505/activities
+
 ## Planning:
 * https://en.mapy.cz/ has the most up-to-date gravel roads (at least in Hungary), has an app as well
 * missing tiles in KML format from Veloviewer Summary page to this (available as an iOS app as well) app: https://geoladak.tamaspetro.com/tracks
